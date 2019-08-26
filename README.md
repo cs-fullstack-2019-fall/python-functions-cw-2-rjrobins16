@@ -1,5 +1,6 @@
 # python-functions-cw_2
 
+Great work. Score : 5
 
 ### Problem 1:
 Create a function that will ask the user for a number.
